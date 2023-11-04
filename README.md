@@ -22,6 +22,6 @@ Solutions for the challenges from https://codember.dev/
 
 | Secret | Name              | Hint               |
 | ------ | ----------------- | ------------------ |
-| 1      | ?  | ?  |
-| 2      | ¡Revisa el calendario!  | AdventJS esta llegando  |
-| 3      | who.png  | Has encontrado a Guishe!  |
+| 1      | Konami Code 🎮  | Recrea el código  |
+| 2      | AdventJS esta llegando  | ¡Revisa el calendario!  |
+| 3      | Has encontrado a Guishe!  | who.png  |
