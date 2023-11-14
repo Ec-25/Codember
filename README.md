@@ -15,13 +15,17 @@ Solutions for the challenges from https://codember.dev/
 
 | Challenge | Name                                      |                                    |
 | --------- | ----------------------------------------- | ---------------------------------- |
-| 1         | Find Patterns                              | [solution](./challenge01/main.py) |
+| 1         | Find Patterns                             | [solution](./challenge01/main.py) |
+| 2         | Mini Compiler Challenge                   | [solution](./challenge02/main.py) |
 
 
 ## Secrets 🤫
 
-| Secret | Name              | Hint               |
-| ------ | ----------------- | ------------------ |
-| 1      | Konami Code 🎮  | Recrea el código  |
-| 2      | AdventJS esta llegando  | ¡Revisa el calendario!  |
-| 3      | Has encontrado a Guishe!  | who.png  |
+| Secret | Name              |
+| ------ | ----------------- |
+| 1      | Konami Code  |
+| 2      | AdventJS esta llegando  |
+| 3      | Has encontrado a Guishe!  |
+| 4      | Confeti  |
+| 5      | Es Magia!  |
+| 6      | Html en nuestros Corazones  |
