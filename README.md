@@ -17,6 +17,7 @@ Solutions for the challenges from https://codember.dev/
 | --------- | ----------------------------------------- | ---------------------------------- |
 | 1         | Find Patterns                             | [solution](./challenge01/main.py) |
 | 2         | Mini Compiler Challenge                   | [solution](./challenge02/main.py) |
+| 3         | Spy Encryption                            | [solution](./challenge03/main.py) |
 
 
 ## Secrets 🤫
@@ -29,3 +30,6 @@ Solutions for the challenges from https://codember.dev/
 | 4      | Confeti  |
 | 5      | Es Magia!  |
 | 6      | Html en nuestros Corazones  |
+| 7      | ¡Barrel Roll!  |
+| 8      | Encontraste al Astronauta  |
+| 9      | Premio al Salseo del año  |
