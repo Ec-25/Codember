@@ -11,16 +11,18 @@
 
 Solutions for the challenges from https://codember.dev/
 
-## Challenges ⛰️
+## Challenges 2023 ⛰️
 
 | Challenge | Name                                      |                                    |
 | --------- | ----------------------------------------- | ---------------------------------- |
 | 1         | Find Patterns                             | [solution](./challenge01/main.py) |
 | 2         | Mini Compiler Challenge                   | [solution](./challenge02/main.py) |
 | 3         | Spy Encryption                            | [solution](./challenge03/main.py) |
+| 4         | Hackers Attack!                           | [solution](./challenge04/main.py) |
+| 5         | El problema final                         | [solution](./challenge05/main.py) |
 
 
-## Secrets 🤫
+## Secrets 2023 🤫
 
 | Secret | Name              |
 | ------ | ----------------- |
@@ -33,3 +35,7 @@ Solutions for the challenges from https://codember.dev/
 | 7      | ¡Barrel Roll!  |
 | 8      | Encontraste al Astronauta  |
 | 9      | Premio al Salseo del año  |
+| 10     | ¡Ping pong! |
+| 11     | ¡Bug encontrado! |
+| 12     | ¡Un Tetris en 40 minutos! |
+| 13     | Ho ho ho! |
